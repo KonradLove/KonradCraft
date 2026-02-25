@@ -1,15 +1,15 @@
-﻿using KonradCraft.gui;
+﻿using EminaCraft.gui;
 using OpenTK.Mathematics;
 using OpenTK.Graphics.OpenGL;
 using static OpenTK.Graphics.OpenGL.GL;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 using OpenTK.Windowing.Common;
-using KonradCraft.scenes;
-using KonradCraft.world;
-using KonradCraft.entities;
-using KonradCraft.shaders;
+using EminaCraft.scenes;
+using EminaCraft.world;
+using EminaCraft.entities;
+using EminaCraft.shaders;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class GameScene : Scene
     {

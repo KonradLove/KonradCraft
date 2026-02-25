@@ -1,4 +1,4 @@
-﻿using KonradCraft.shaders;
+﻿using EminaCraft.shaders;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Mathematics;
 using System;
@@ -9,7 +9,7 @@ using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft.world
+namespace EminaCraft.world
 {
     internal class Chunk
     {

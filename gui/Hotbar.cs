@@ -1,4 +1,4 @@
-﻿using KonradCraft.entities;
+﻿using EminaCraft.entities;
 using OpenTK.Mathematics;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 using System;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft.gui
+namespace EminaCraft.gui
 {
     class Hotbar : GUIObject
     {

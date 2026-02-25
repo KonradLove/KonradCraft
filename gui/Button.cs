@@ -1,7 +1,7 @@
 ﻿using OpenTK.Windowing.GraphicsLibraryFramework;
 using OpenTK.Mathematics;
 
-namespace KonradCraft.gui
+namespace EminaCraft.gui
 {
     interface ButtonRunnable
     {

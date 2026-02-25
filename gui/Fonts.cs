@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft.gui
+namespace EminaCraft.gui
 {
     internal class Fonts
     {

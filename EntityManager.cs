@@ -1,11 +1,11 @@
-﻿using KonradCraft.shaders;
+﻿using EminaCraft.shaders;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class EntityManager
     {

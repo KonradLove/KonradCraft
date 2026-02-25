@@ -1,4 +1,4 @@
-﻿using KonradCraft.world;
+﻿using EminaCraft.world;
 using OpenTK.Mathematics;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 using System;
@@ -6,9 +6,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static KonradCraft.world.TerrainGenerator;
+using static EminaCraft.world.TerrainGenerator;
 
-namespace KonradCraft.entities
+namespace EminaCraft.entities
 {
     internal class Player : Entity
     {

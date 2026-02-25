@@ -1,7 +1,7 @@
 ﻿
 using System.Diagnostics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class Time
     {

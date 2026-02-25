@@ -3,7 +3,7 @@ using OpenTK.Mathematics;
 using System;
 using static OpenTK.Graphics.OpenGL.GL;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal abstract class UniformValue
     {

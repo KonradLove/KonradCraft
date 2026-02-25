@@ -1,7 +1,7 @@
 ﻿using OpenTK.Graphics.OpenGL;
 using OpenTK.Mathematics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class Skybox
     {

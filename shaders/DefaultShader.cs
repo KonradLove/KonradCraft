@@ -1,6 +1,6 @@
 ﻿using OpenTK.Mathematics;
 
-namespace KonradCraft.shaders
+namespace EminaCraft.shaders
 {
     internal class DefaultShader : EntityShader
     {

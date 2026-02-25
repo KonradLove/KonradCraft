@@ -2,7 +2,7 @@
 
 using OpenTK.Mathematics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal struct Triangle
     {

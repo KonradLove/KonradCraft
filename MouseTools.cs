@@ -1,6 +1,6 @@
 ﻿using OpenTK.Mathematics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class MouseTools
     {

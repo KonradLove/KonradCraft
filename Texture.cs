@@ -2,7 +2,7 @@
 using OpenTK.Graphics.OpenGL;
 using SFML.Graphics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class Cubemap
     {

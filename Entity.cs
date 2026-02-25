@@ -1,7 +1,7 @@
-﻿using KonradCraft.shaders;
+﻿using EminaCraft.shaders;
 using OpenTK.Mathematics;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class Entity
     {

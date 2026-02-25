@@ -4,11 +4,11 @@ using OpenTK.Mathematics;
 using static OpenTK.Graphics.OpenGL.GL;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Windowing.GraphicsLibraryFramework;
-using KonradCraft.gui;
-using KonradCraft.shaders;
-using KonradCraft.scenes;
+using EminaCraft.gui;
+using EminaCraft.shaders;
+using EminaCraft.scenes;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class MainWindow : GameWindow
     {

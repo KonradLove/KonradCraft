@@ -1,4 +1,4 @@
-# KonradCraft
+# EminaCraft
 A Minecraft clone written in C# and OpenGL in my own engine.
 
 This is a fairly old project and is not very optimised, but it shows a good proof of concept of an implemented voxel renderer, and it demonstrates many important concepts for rendering the world.

@@ -1,11 +1,11 @@
-﻿using KonradCraft.gui;
+﻿using EminaCraft.gui;
 using OpenTK.Mathematics;
 using OpenTK.Graphics.OpenGL;
 using System.Text.Json.Serialization;
 using System.Text.Json;
-using KonradCraft.shaders;
+using EminaCraft.shaders;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class Toolbox
     {

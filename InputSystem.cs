@@ -2,7 +2,7 @@
 using OpenTK.Windowing.GraphicsLibraryFramework;
 
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class InputAxis
     {

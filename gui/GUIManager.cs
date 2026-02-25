@@ -1,7 +1,7 @@
 ﻿using OpenTK.Graphics.OpenGL;
 using static OpenTK.Graphics.OpenGL.GL;
 
-namespace KonradCraft.gui
+namespace EminaCraft.gui
 {
     internal class GUIManager
     {

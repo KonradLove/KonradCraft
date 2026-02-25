@@ -1,4 +1,4 @@
-﻿namespace KonradCraft
+﻿namespace EminaCraft
 {
     internal class Program
     {

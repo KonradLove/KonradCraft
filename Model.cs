@@ -3,7 +3,7 @@ using OpenTK.Mathematics;
 using OpenTK.Windowing.GraphicsLibraryFramework;
 using static OpenTK.Graphics.OpenGL.GL;
 
-namespace KonradCraft
+namespace EminaCraft
 {
     internal class TexturedModel : IRenderable
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft.postprocessing
+namespace EminaCraft.postprocessing
 {
     internal class Fbo
     {

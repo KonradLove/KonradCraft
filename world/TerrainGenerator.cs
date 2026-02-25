@@ -1,7 +1,7 @@
 ﻿using OpenTK.Mathematics;
 using SimplexNoise;
 
-namespace KonradCraft.world
+namespace EminaCraft.world
 {
     internal class TerrainGenerator
     {

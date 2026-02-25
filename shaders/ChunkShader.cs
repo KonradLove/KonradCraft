@@ -1,7 +1,7 @@
-﻿using KonradCraft.world;
+﻿using EminaCraft.world;
 using OpenTK.Mathematics;
 
-namespace KonradCraft.shaders
+namespace EminaCraft.shaders
 {
     internal class ChunkShader : ShaderProgram
     {

@@ -1,11 +1,11 @@
-﻿using KonradCraft.gui;
+﻿using EminaCraft.gui;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KonradCraft.scenes
+namespace EminaCraft.scenes
 {
     internal class SceneManager
     {
